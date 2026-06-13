@@ -17,7 +17,3 @@ Este proyecto fue desarrollado como un ejercicio de clase para poner en práctic
 
 Finalizado. Se trata de un proyecto educativo de clase con sus funcionalidades básicas operativas y su diseño UI/UX completado. Probado y ajustado para emuladores de tamaño *Medium Phone*.
 
-<br><br><br>
-<p align="center">
-  <img src="pp/src/main/res/drawable/cara1.png" width="300" />
-</p>
