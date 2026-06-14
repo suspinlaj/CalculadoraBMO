@@ -17,10 +17,11 @@ Este proyecto fue desarrollado como un ejercicio de clase para poner en práctic
 
 Finalizado. Se trata de un proyecto educativo de clase con sus funcionalidades básicas operativas y su diseño UI/UX completado. Probado y ajustado para emuladores de tamaño *Medium Phone*.
 
+<br><br><br>
 <p align="center">
-<img width="381" height="846" alt="Captura de pantalla 2026-06-14 105152" src="https://github.com/user-attachments/assets/035d4be5-0996-42d0-af78-56ea5851e87b" width="275" />
-&nbsp;
-<img width="380" height="844" alt="Captura de pantalla 2026-06-14 105144" src="https://github.com/user-attachments/assets/7790d760-134a-40a3-85b8-f3fce5c6381d" width="275"/>
-&nbsp;
-<img width="379" height="844" alt="Captura de pantalla 2026-06-14 105130" src="https://github.com/user-attachments/assets/318e4809-9611-4aa2-84d2-7507465b4fb0" width="275" />
+  <img src="https://github.com/user-attachments/assets/318e4809-9611-4aa2-84d2-7507465b4fb0" width="220" alt="BMO Vista 1" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/7790d760-134a-40a3-85b8-f3fce5c6381d" width="220" alt="BMO Vista 2" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/035d4be5-0996-42d0-af78-56ea5851e87b" width="220" alt="BMO Vista 3" />
 </p>
